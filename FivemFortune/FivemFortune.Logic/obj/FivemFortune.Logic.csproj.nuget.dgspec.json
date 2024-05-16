@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {}
+    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
+    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
         "projectName": "FivemFortune.Logic",
-        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
+        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
         "packagesPath": "C:\\Users\\rickp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\obj\\",
+        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rickp\\AppData\\Roaming\\NuGet\\NuGet.Config",

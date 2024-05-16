@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune\\FivemFortune.csproj": {}
+    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\FivemFortune.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj": {
+    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj",
+        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj",
         "projectName": "FivemFortune.Data",
-        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj",
+        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj",
         "packagesPath": "C:\\Users\\rickp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\obj\\",
+        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rickp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
-                "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj"
+              "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
+                "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
+    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
         "projectName": "FivemFortune.Logic",
-        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
+        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj",
         "packagesPath": "C:\\Users\\rickp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\obj\\",
+        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rickp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune\\FivemFortune.csproj": {
+    "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\FivemFortune.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune\\FivemFortune.csproj",
+        "projectUniqueName": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\FivemFortune.csproj",
         "projectName": "FivemFortune",
-        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune\\FivemFortune.csproj",
+        "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\FivemFortune.csproj",
         "packagesPath": "C:\\Users\\rickp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune\\obj\\",
+        "outputPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rickp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj": {
-                "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj"
+              "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj": {
+                "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj"
               },
-              "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
-                "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj"
+              "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj": {
+                "projectPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\FivemFortune.Logic.csproj"
               }
             }
           }
