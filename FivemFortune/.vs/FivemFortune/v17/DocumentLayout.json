@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{151761B4-EE1A-4B48-A6B3-509AD6CC896C}|FivemFortuneTests\\FivemFortuneTests.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortunetests\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151761B4-EE1A-4B48-A6B3-509AD6CC896C}|FivemFortuneTests\\FivemFortuneTests.csproj|solutionrelative:fivemfortunetests\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151761B4-EE1A-4B48-A6B3-509AD6CC896C}|FivemFortuneTests\\FivemFortuneTests.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortunetests\\coinstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151761B4-EE1A-4B48-A6B3-509AD6CC896C}|FivemFortuneTests\\FivemFortuneTests.csproj|solutionrelative:fivemfortunetests\\coinstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.logic\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|solutionrelative:fivemfortune.logic\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.logic\\exceptions\\negativecoinstoremoveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|solutionrelative:fivemfortune.logic\\exceptions\\negativecoinstoremoveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.logic\\exceptions\\tohighcoinstoremoveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|solutionrelative:fivemfortune.logic\\exceptions\\tohighcoinstoremoveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.logic\\crates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|solutionrelative:fivemfortune.logic\\crates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{92DC0999-10B7-4EE9-A79A-53A879D51EEF}|FivemFortune\\FivemFortune.csproj|solutionrelative:fivemfortune\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{151761B4-EE1A-4B48-A6B3-509AD6CC896C}|FivemFortuneTests\\FivemFortuneTests.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortunetests\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151761B4-EE1A-4B48-A6B3-509AD6CC896C}|FivemFortuneTests\\FivemFortuneTests.csproj|solutionrelative:fivemfortunetests\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB86F32-8FD9-4C9E-9385-3D0E6F660AC4}|FivemFortune.Data\\FivemFortune.Data.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.data\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB86F32-8FD9-4C9E-9385-3D0E6F660AC4}|FivemFortune.Data\\FivemFortune.Data.csproj|solutionrelative:fivemfortune.data\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEB86F32-8FD9-4C9E-9385-3D0E6F660AC4}|FivemFortune.Data\\FivemFortune.Data.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.data\\getdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB86F32-8FD9-4C9E-9385-3D0E6F660AC4}|FivemFortune.Data\\FivemFortune.Data.csproj|solutionrelative:fivemfortune.data\\getdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune.logic\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FF50DA-0CAF-498E-9B33-7718610ADFBE}|FivemFortune.Logic\\FivemFortune.Logic.csproj|solutionrelative:fivemfortune.logic\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DC0999-10B7-4EE9-A79A-53A879D51EEF}|FivemFortune\\FivemFortune.csproj|c:\\users\\rickp\\onedrive\\documenten\\school\\s2 software\\individueel project\\github repo\\fivemfortune\\fivemfortune\\fivemfortune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DC0999-10B7-4EE9-A79A-53A879D51EEF}|FivemFortune\\FivemFortune.csproj|solutionrelative:fivemfortune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,86 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExceptionTests.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\ExceptionTests.cs",
-              "RelativeDocumentMoniker": "FivemFortuneTests\\ExceptionTests.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\ExceptionTests.cs",
-              "RelativeToolTip": "FivemFortuneTests\\ExceptionTests.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwCoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:35:59.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoinsTests.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\CoinsTests.cs",
-              "RelativeDocumentMoniker": "FivemFortuneTests\\CoinsTests.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\CoinsTests.cs",
-              "RelativeToolTip": "FivemFortuneTests\\CoinsTests.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:03:07.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Coins.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Coins.cs",
-              "RelativeDocumentMoniker": "FivemFortune.Logic\\Coins.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Coins.cs",
-              "RelativeToolTip": "FivemFortune.Logic\\Coins.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:08:17.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NegativeCoinsToRemoveException.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Exceptions\\NegativeCoinsToRemoveException.cs",
-              "RelativeDocumentMoniker": "FivemFortune.Logic\\Exceptions\\NegativeCoinsToRemoveException.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Exceptions\\NegativeCoinsToRemoveException.cs",
-              "RelativeToolTip": "FivemFortune.Logic\\Exceptions\\NegativeCoinsToRemoveException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:07:44.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ToHighCoinsToRemoveException.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Exceptions\\ToHighCoinsToRemoveException.cs",
-              "RelativeDocumentMoniker": "FivemFortune.Logic\\Exceptions\\ToHighCoinsToRemoveException.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Exceptions\\ToHighCoinsToRemoveException.cs",
-              "RelativeToolTip": "FivemFortune.Logic\\Exceptions\\ToHighCoinsToRemoveException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:07:45.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Crates.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Crates.cs",
-              "RelativeDocumentMoniker": "FivemFortune.Logic\\Crates.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Crates.cs",
-              "RelativeToolTip": "FivemFortune.Logic\\Crates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:20:29.445Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -132,27 +50,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetData.cs",
-              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\GetData.cs",
-              "RelativeDocumentMoniker": "FivemFortune.Data\\GetData.cs",
-              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\GetData.cs",
-              "RelativeToolTip": "FivemFortune.Data\\GetData.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAArwB4AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:06:50.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FivemFortune\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FivemFortune\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAANAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:08:05.247Z"
+              "WhenOpened": "2024-05-16T12:17:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crates.cs",
+              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Crates.cs",
+              "RelativeDocumentMoniker": "FivemFortune.Logic\\Crates.cs",
+              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Crates.cs",
+              "RelativeToolTip": "FivemFortune.Logic\\Crates.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:20:29.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionTests.cs",
+              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\ExceptionTests.cs",
+              "RelativeDocumentMoniker": "FivemFortuneTests\\ExceptionTests.cs",
+              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\ExceptionTests.cs",
+              "RelativeToolTip": "FivemFortuneTests\\ExceptionTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwDIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:16:43.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coins.cs",
+              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Coins.cs",
+              "RelativeDocumentMoniker": "FivemFortune.Logic\\Coins.cs",
+              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Logic\\Coins.cs",
+              "RelativeToolTip": "FivemFortune.Logic\\Coins.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAvwDQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:09:46.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateData.cs",
+              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\UpdateData.cs",
+              "RelativeDocumentMoniker": "FivemFortune.Data\\UpdateData.cs",
+              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\UpdateData.cs",
+              "RelativeToolTip": "FivemFortune.Data\\UpdateData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:09:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetData.cs",
+              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\GetData.cs",
+              "RelativeDocumentMoniker": "FivemFortune.Data\\GetData.cs",
+              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\GetData.cs",
+              "RelativeToolTip": "FivemFortune.Data\\GetData.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:06:50.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\Program.cs",
+              "RelativeDocumentMoniker": "FivemFortune\\Program.cs",
+              "ToolTip": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune\\Program.cs",
+              "RelativeToolTip": "FivemFortune\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:01:24Z",
+              "EditorCaption": ""
             }
           ]
         }

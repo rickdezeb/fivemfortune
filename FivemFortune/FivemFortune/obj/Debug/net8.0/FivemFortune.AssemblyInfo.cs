@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FivemFortune")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+929a7fd05221089056aac2844f81b53551e7a041")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d2d04a165fc4b09f75b31f9a1bd9aba3bae20a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FivemFortune")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FivemFortune")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

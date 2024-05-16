@@ -56,11 +56,12 @@ namespace FivemFortune.Data
         public List<Crates> GetAllCrates()
         {
             string query = "SELECT id, name, price FROM crates";
-            List<Crates> crates = _dbConnection.ExecuteQuery(query, (reader) => new Crates
+            List<Crates> crates = _dbConnection.ExecuteQuery(query, (reader) =>
             {
-                Id = Convert.ToInt32(reader["id"]),
-                Name = reader["name"].ToString(),
-                Price = Convert.ToInt32(reader["price"])
+                int id = Convert.ToInt32(reader["id"]);
+                string name = reader["name"].ToString();
+                int price = Convert.ToInt32(reader["price"]);
+                return new Crates(id, name, price);
             });
             return crates;
         }

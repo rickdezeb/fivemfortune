@@ -34,8 +34,19 @@ namespace FivemFortune.Logic
             {
                 throw new ToHighCoinsToRemoveException(coinsToRemove);
             }
-            else { 
-            _updateData.UpdateCoins(coinsToRemove);
+            else {
+                int currentCoins = _getData.GetCoins();
+                int newCoins = 0;
+
+                newCoins = currentCoins - coinsToRemove;
+
+                if (newCoins < 0)
+                {
+                    newCoins = 0;
+                }
+
+
+                _updateData.UpdateCoins(newCoins);
         }
     }
 
