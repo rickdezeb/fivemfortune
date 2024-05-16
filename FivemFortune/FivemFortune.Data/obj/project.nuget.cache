@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJsiP5Sfusj/BqUvwvtXpN1mAMBb2X0f9dh735ggWOy6pE79y5JngCqqkDjE0ajyGHm3ndlzWYbzLj0ZEE9IOg==",
+  "dgSpecHash": "0WpSsn3DUI3r2TLqZikPyt4cfZ7c9FRcOUC9Yd6T/yp1bFDdu8zvnPWihqtw7LNnkiT6wK2QZa9OJQ/LazjMEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj",
+  "projectFilePath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortune.Data\\FivemFortune.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rickp\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\rickp\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tvAkYLv6I9Aux1+eUuKXvKoW1xkbP6zFfpjYKuirohCJSwbJAie2Edph/znRVpaTrt9MptI+y8vyrDpiWxyh5A==",
+  "dgSpecHash": "9LSHabWC8IP2pR77x1Ozr4g0l/KRZ5zmBvSpbKlENC7335gs5mO40qBxY19ZZdXeqnLurfF6TNA7HrtwU4MgRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\FivemFortune\\FivemFortuneTests\\FivemFortuneTests.csproj",
+  "projectFilePath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S2 Software\\Individueel project\\Github repo\\fivemfortune\\FivemFortune\\FivemFortuneTests\\FivemFortuneTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rickp\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\rickp\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
