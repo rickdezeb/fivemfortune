@@ -12,7 +12,7 @@ var configuration = new ConfigurationBuilder()
     .AddJsonFile("appsettings.json")
     .Build();
 
-builder.Services.AddScoped<Crates>();
+
 builder.Services.AddScoped<CratesService>();
 builder.Services.AddScoped<Coins>();
 builder.Services.AddScoped<Username>();
