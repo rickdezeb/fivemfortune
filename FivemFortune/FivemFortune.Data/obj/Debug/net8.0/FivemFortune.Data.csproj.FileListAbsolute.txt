@@ -1,0 +1,15 @@
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.csproj.AssemblyReference.cache
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.AssemblyInfoInputs.cache
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.AssemblyInfo.cs
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.csproj.CoreCompileInputs.cache
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\bin\Debug\net8.0\FivemFortune.Data.deps.json
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\bin\Debug\net8.0\FivemFortune.Data.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\bin\Debug\net8.0\FivemFortune.Data.pdb
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\bin\Debug\net8.0\FivemFortune.Logic.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\bin\Debug\net8.0\FivemFortune.Logic.pdb
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFor.A234BE79.Up2Date
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\refint\FivemFortune.Data.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\FivemFortune.Data.pdb
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Data\obj\Debug\net8.0\ref\FivemFortune.Data.dll

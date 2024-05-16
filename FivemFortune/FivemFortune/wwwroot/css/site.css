@@ -1,0 +1,75 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: Arial, sans-serif;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.welcometext1 {
+    color: white;
+    font-size: 90px;
+}
+
+.welcometext2 {
+    color: white;
+    font-size: 40px;
+}
+
+.buycrate {
+    color: white;
+    font-size: 40px;
+}
+
+.notification {
+    position: fixed;
+    top: 60px;
+    right: 20px;
+    background-color: #f2f2f2;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    display: none;
+    width: auto; 
+}
+
+    .notification.green {
+        color: green;
+    }
+
+    .notification.red {
+        color: red;
+    }
+
+.pricetag {
+    color: white;
+    font-size: 20px;
+}
+
+
+

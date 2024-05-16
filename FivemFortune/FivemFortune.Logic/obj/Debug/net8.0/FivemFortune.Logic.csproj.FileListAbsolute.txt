@@ -1,0 +1,11 @@
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\FivemFortune.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\FivemFortune.Logic.AssemblyInfoInputs.cache
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\FivemFortune.Logic.AssemblyInfo.cs
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\FivemFortune.Logic.csproj.CoreCompileInputs.cache
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\bin\Debug\net8.0\FivemFortune.Logic.deps.json
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\bin\Debug\net8.0\FivemFortune.Logic.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\bin\Debug\net8.0\FivemFortune.Logic.pdb
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\FivemFortune.Logic.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\refint\FivemFortune.Logic.dll
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\FivemFortune.Logic.pdb
+C:\Users\rickp\OneDrive\Documenten\School\S2 Software\Individueel project\FivemFortune\FivemFortune.Logic\obj\Debug\net8.0\ref\FivemFortune.Logic.dll
