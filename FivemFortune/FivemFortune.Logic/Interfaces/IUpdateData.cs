@@ -8,6 +8,6 @@ namespace FivemFortune.Logic.Interfaces
 {
     public interface IUpdateData
     {
-        void UpdateCoins(int coinsToRemove);
+        void UpdateCoins(int newCoins);
     }
 }

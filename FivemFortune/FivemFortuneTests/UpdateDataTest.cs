@@ -9,7 +9,7 @@ namespace FivemFortuneTests
 {
     public class UpdateDataTest : IUpdateData
     {
-        public void UpdateCoins(int coinsToRemove)
+        public void UpdateCoins(int newCoins)
         {
             
         }
